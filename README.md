@@ -56,6 +56,9 @@ The Bottom 5 schools continued as before
 ## Results 
 
    ![School_District_Analysis](School_District_Analysis 1.png.svg.png)
+   
    ![School_District_Analysis](School_District_Analysis 2.png.svg.png)
+   
    ![School_District_Analysis](School_District_Analysis 3.png.svg.png)
+   
    ![School_District_Analysis](School_District_Analysis 4.png.svg.png)
