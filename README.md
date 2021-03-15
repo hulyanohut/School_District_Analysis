@@ -16,9 +16,7 @@ Tools : , Pandas, Jupyter Notebook
 
 # Summary of Analysis
 
-
-
-# How is the district summary affected?
+  ## How is the district summary affected?
 
 The normal score dropped by < 1% 
 
@@ -30,7 +28,7 @@ The rate passing dropped by 1%
 
 The general passing rate dropped by 1%
 
-# How is the  summary affected?
+  ## How is the  summary affected?
 
 The Per outline was just influenced for Thomas : 
 
@@ -40,13 +38,13 @@ rate passing dropped from 97.3% to 69.7%
 
 generally speaking passing rate dropped from 90.9% to 65.1%
 
-# How were the  rankings affected?
+  ## How were the  rankings affected?
 
 Thomas exited the Top 5 moving Wright into the main 5 
 
 The Bottom 5 schools continued as before
 
-# How were the other reports affected?
+  ## How were the other reports affected?
 
 - Scores by Grade continued as before aside from Thomas which revealed had no information to report 
 
