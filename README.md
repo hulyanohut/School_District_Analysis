@@ -55,5 +55,4 @@ The Bottom 5 schools continued as before
 - Scores by Type changed by Charter type: - rate passing dropped from 94% to 90% - rate passing dropped from 97% to 93% - by and large passing rate dropped from 90% to 87%
 ## Result 
 
-  (data-Module-4-Challenge-1.png)
-  (data-Module-4-Challenge-2.png)
+   ![School_District_Analysis](School_District_Analysis.png.svg.png)
