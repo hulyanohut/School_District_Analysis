@@ -53,3 +53,7 @@ The Bottom 5 schools continued as before
 - Scores by Size changed at the Medium(1000-2000) size: - rate passing dropped from 94% to 88% - rate passing dropped from 97% to 91% - by and large passing rate dropped from 91% to 85% 
 
 - Scores by Type changed by Charter type: - rate passing dropped from 94% to 90% - rate passing dropped from 97% to 93% - by and large passing rate dropped from 90% to 87%
+## Result 
+
+  (data-Module-4-Challenge-1.png)
+  (data-Module-4-Challenge-2.png)
